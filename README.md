@@ -1,5 +1,3 @@
-
-
 ![photo.jpg](/readme/photo.jpg)
 
 "Golden Quest" represents a significant personal milestone in my learning and development journey as a programmer. Developed as part of a class project for the Programming II course at the Universidad Nacional Autónoma de Honduras, this video game was my first foray into a complex software project, where I could apply and broaden my knowledge of Java and JavaFX.
